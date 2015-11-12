@@ -1,0 +1,13 @@
+p{
+  text-indent:1em;
+  margin:0;
+}
+
+section p:first-of-type{
+  text-indent:0;
+}
+
+img{
+  width:80%;
+  margin: 0 10%;
+}
