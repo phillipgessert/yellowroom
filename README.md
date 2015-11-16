@@ -1,6 +1,6 @@
 # yellowroom
 
-_The Mystery of the Yellow Room_ is a locked-room mystery by Gaston Leroux. The book is in the public domain.
+*The Mystery of the Yellow Room* is a locked-room mystery by Gaston Leroux. The book is in the public domain.
 
 Gessert Books is an ongoing, umbrella project that aims to create deluxe ebook editions of public domain works. There ought to be a focus on both **style** and **technique**; where **style** is reflected through art direction and design, and **technique** is reflected through thoughtful coding.
 
