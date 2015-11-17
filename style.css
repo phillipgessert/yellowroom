@@ -1,3 +1,13 @@
+/*Document Styles*/
+
+/*Character Styles*/
+
+em{
+  font-style: italic;
+}
+
+/*Paragraph Styles*/
+
 p{
   text-indent:1em;
   margin:0;
@@ -7,7 +17,14 @@ section p:first-of-type{
   text-indent:0;
 }
 
+/*Image Styles*/
+
 img{
   width:80%;
   margin: 0 10%;
 }
+
+/*Unused (Clean Me in CSS & HTML)
+em.publication{}
+em.french{}
+*/
