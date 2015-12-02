@@ -6,6 +6,10 @@ em{
   font-style: italic;
 }
 
+a[epub|type~='noteref'] {
+  vertical-align: super;
+}
+
 /*Paragraph Styles*/
 
 p{
