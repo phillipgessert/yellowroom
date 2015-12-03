@@ -1,5 +1,10 @@
-/*Document Styles*/
+@namespace epub "http://www.idpf.org/2007/ops";
 
+
+/*Document Styles*/
+section[epub|type~='subchapter'] {
+  margin-top: 2em;
+}
 /*Character Styles*/
 
 em{
@@ -19,6 +24,15 @@ p{
 
 section p:first-of-type{
   text-indent:0;
+}
+dd{
+  margin-left: 1em;
+  margin-bottom: 1em;
+
+}
+
+dt{
+  font-style:italic;
 }
 
 /*Image Styles*/
